@@ -1,3 +1,4 @@
+http://blog.csdn.net/yhaolpz/article/details/77146156?ref=myread
 # ffmpeg for android shared library
   移植ffmpeg到android，编译可用于jni调用的so库.<br>
   编译出的so在android apk中的使用参考我的另一个项目[ffmpeg-commands-executor-library](https://github.com/dxjia/ffmpeg-commands-executor-library)
